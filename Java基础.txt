@@ -2,7 +2,11 @@
     面向对象(封装，继承，多态)；
     平台无关性(一次编写，处处运行)；
     强大的生态(目前最大的特点)。
-2、JVM、JDK、JRE
+2、JVM、JDK、JRE、JIT
     JDK:JDK(Java Development Kit)是一个功能齐全的 Java 开发工具包，包括JRE和Java开发工具。
     JRE:JRE是运行已编译Java程序所需的环境，主要包含JVM和Java基础类库。
     JVM:Java虚拟机(Java Virtual Machine)是运行Java字节码的虚拟机。
+    JIT:JIT（Just in Time Compilation）编译器，属于运行时编译。
+    总结：JDK包含JRE和Java开发工具，JRE包含JVM和Java基础类库，JVM包含JIT。
+3、为什么说Java语言“编译与解释并存”？
+    
