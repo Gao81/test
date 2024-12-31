@@ -1,4 +1,8 @@
 1、Java语言的特点
     面向对象(封装，继承，多态)；
     平台无关性(一次编写，处处运行)；
-    强大的生态(目前最大的特点)
+    强大的生态(目前最大的特点)。
+2、JVM、JDK、JRE
+    JDK:JDK(Java Development Kit)是一个功能齐全的 Java 开发工具包，包括JRE和Java开发工具。
+    JRE:JRE是运行已编译Java程序所需的环境，主要包含JVM和Java基础类库。
+    JVM:Java虚拟机(Java Virtual Machine)是运行Java字节码的虚拟机。
